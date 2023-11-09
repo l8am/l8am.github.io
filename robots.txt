@@ -1,0 +1,16 @@
+# Allow all major search engines
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Yahoo Slurp
+User-agent: DuckDuckGo
+User-agent: Yandex
+User-agent: Baiduspider
+User-agent: Sogou
+User-agent: Exabot
+User-agent: SeznamBot
+Allow: /
+
+# Disallow all other user-agents
+User-agent: *
+Disallow: /
+
