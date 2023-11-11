@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rain Shower Heads - A Conspiracy for a Civilized Age"
+title:  "Rain Shower Heads - A Conspiracy"
 date:   2023-11-04 13:42:45 -0500
 categories: Thoughts
 ---
