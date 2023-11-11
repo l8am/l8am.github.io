@@ -21,4 +21,4 @@ That said, no information on this site comes with any kind of warranty or guaran
 
 Jekyll (on which this site is built) is MIT licensed. You can read more [here](https://github.com/jekyll/jekyll/blob/master/LICENSE). Above information does not apply to Jekyll. 
 
-I am using the [Kiko-now theme](https://github.com/aweekj/kiko-now) by [aweekj](https://github.com/aweekj/kiko-now). 
+I am using the [Kiko-now theme](https://github.com/aweekj/kiko-now) by [aweekj](https://github.com/aweekj). 

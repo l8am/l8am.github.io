@@ -14,4 +14,6 @@ It doesn't make much sense until you realize that there was probably some genera
 
 Note that I have cited no sources on this matter, but I assure you everything I have said is as true as you want it to be. Anyway, welcome to my blog, where I record my thoughts on everything with a minimal amount of facts. Feel free to correct anything I've said, I won't listen or respond.
 
+![Don't do this](/images/showerheads.png)
+
 *Please report any rock poachers you see.
